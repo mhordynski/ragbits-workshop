@@ -1,0 +1,10 @@
+[project]
+name = "workshop-ragbits"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ragbits[docling,qdrant]==0.14.0",
+]
+
